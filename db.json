@@ -17,18 +17,18 @@
   ],
   "appointments": [
     {
-      "id": "1",
-      "title": "Meeting",
-      "description": "Project review meeting",
-      "date": "2026-02-12",
-      "user_id": "david_nit"
+      "title": "Project Review Meeting",
+      "description": "Meeting Details updated.. , prepare ppt",
+      "date": "2026-02-13",
+      "user_id": "david_nit",
+      "id": "1"
     },
     {
-      "id": "8e9b",
-      "title": "React Class",
-      "description": "React 19",
-      "date": "2026-02-17",
-      "user_id": "kiran_123"
+      "title": "React 19 Class",
+      "description": "React 19 - To-Do Application",
+      "date": "2026-02-19",
+      "user_id": "kiran_123",
+      "id": "8e9b"
     }
   ]
 }
